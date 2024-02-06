@@ -7,4 +7,7 @@
 <body>
    <h1>Exercice 1 test</h1>
 </body>
+<?php
+   echo $today = date("m.d.Y");
+?>
 </html>
