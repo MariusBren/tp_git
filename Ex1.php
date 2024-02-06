@@ -10,4 +10,5 @@
 <?php
    echo $today = date("m.d.Y");
 ?>
+<p>Et je teste git et VSCode </p>
 </html>
